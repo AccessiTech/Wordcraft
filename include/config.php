@@ -18,10 +18,10 @@ $WC = array(
 
     // Database options
     "db_prefix"   => "wc",
-    "db_server"   => "",
-    "db_name"     => "",
-    "db_user"     => "",
-    "db_password" => "",
+    "db_server"   => "http://localhost:8889",
+    "db_name"     => "localhost",
+    "db_user"     => "root",
+    "db_password" => "root",
 
     // URL formats
     "url_formats" => array(
